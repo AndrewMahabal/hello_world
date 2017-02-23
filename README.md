@@ -1,2 +1,3 @@
 # hello_world
-typical first time coding: hello world
+
+this is a simple hello world for github.
